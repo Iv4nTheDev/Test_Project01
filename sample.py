@@ -1,1 +1,1 @@
-print("This is the testing ko to")
+print("PANIBAGONG TESTING")
